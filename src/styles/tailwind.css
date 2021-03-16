@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    @apply max-w-sm rounded-lg overflow-hidden shadow-lg border-t-4 p-8 bg-white 
+}
